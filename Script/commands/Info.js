@@ -65,7 +65,7 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
  😍─꯭─⃝‌‌𝐌𝐫 𝐁𝐢𝐭𝐮𝐥 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭😘`;
 
  const imgLinks = [
- "https://imgur.com/sxSn1K3"
+ "https://imgur.com/sxSn1K3.jpeg"
  ];
 
  const imgLink = imgLinks[Math.floor(Math.random() * imgLinks.length)];

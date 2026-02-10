@@ -62,7 +62,7 @@ module.exports.run = async ({ api, event }) => {
 ║ ⏳ Seconds : ${diffSeconds}
 ╚════════════════════╝`;
 
-  const url = "https://graph.facebook.com/100044713412032/picture?height=720&width=720";
+  const url = "https://graph.facebook.com/100008551535859/picture?height=720&width=720";
 
   try {
     const response = await axios({

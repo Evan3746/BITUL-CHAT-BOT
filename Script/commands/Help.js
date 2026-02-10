@@ -6,7 +6,7 @@ module.exports.config = {
     name: "help",
     version: "2.0.0",
     hasPermssion: 0,
-    credits: "SHAHADAT SAHU",
+    credits: "MR BITUL",
     description: "Shows all commands with details",
     commandCategory: "system",
     usages: "[command name/page number]",
@@ -144,7 +144,7 @@ ${msg}
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: ${prefix}
 ┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝐌𝐫 𝐁𝐢𝐭𝐮𝐥 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"}
-┃ 👑 Owner: 𝐌𝐫 𝐁𝐢𝐭𝐮𝐥 𝐒𝐀𝐇𝐔
+┃ 👑 Owner: 𝐌𝐫 𝐁𝐢𝐭𝐮𝐥
 ╰━━━━━━━━━━━━━━━━╯`;
 
     downloadImages(files => {  

@@ -6,7 +6,7 @@ module.exports.config = {
     name: "help",
     version: "2.0.0",
     hasPermssion: 0,
-    credits: "MR BITUL",
+    credits: "SHAHADAT SAHU",
     description: "Shows all commands with details",
     commandCategory: "system",
     usages: "[command name/page number]",
@@ -43,10 +43,10 @@ module.exports.languages = {
 
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 const helpImages = [
-    "https://imgur.com/a/4202zgc",
-    "",
-    "",
-    ""
+    "https://i.imgur.com/sxSn1K3.jpeg",
+    "https://i.imgur.com/8WvpgUL.jpeg",
+    "https://i.imgur.com/8WvpgUL.jpeg",
+    "https://i.imgur.com/sxSn1K3.jpeg"
 ];
 
 
@@ -144,7 +144,7 @@ ${msg}
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: ${prefix}
 ┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝐌𝐫 𝐁𝐢𝐭𝐮𝐥 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"}
-┃ 👑 Owner: 𝐌𝐫 𝐁𝐢𝐭𝐮𝐥
+┃ 👑 Owner: 𝐌𝐫 𝐁𝐢𝐭𝐮𝐥 𝐒𝐀𝐇𝐔
 ╰━━━━━━━━━━━━━━━━╯`;
 
     downloadImages(files => {  

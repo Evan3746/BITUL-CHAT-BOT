@@ -48,9 +48,9 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
 │ facebook.com/100008551535859
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-│ m.me/61575698041722
+│ m.me/100008551535859
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
-│ wa.me/+8801882333052
+│ wa.me/+8801310020871
 │
 ╰───────⭓
 
@@ -62,13 +62,13 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 ╰───────⭓
 
 ❤️ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 🌺
- 😍─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭😘`;
+ 😍─꯭─⃝‌‌𝐌𝐫 𝐁𝐢𝐭𝐮𝐥 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭😘`;
 
  const imgLinks = [
- "https://imgur.com/sxSn1K3",
- "https://imgur.com/sxSn1K3",
- "https://imgur.com/sxSn1K3",
- "https://imgur.com/sxSn1K3"
+ "https://i.imgur.com/zqsuJnX.jpeg",
+ "https://i.imgur.com/sxSn1K3.jpeg",
+ "https://i.imgur.com/wu0iDqS.jpeg",
+ "https://i.imgur.com/Huz3nAE.png"
  ];
 
  const imgLink = imgLinks[Math.floor(Math.random() * imgLinks.length)];
